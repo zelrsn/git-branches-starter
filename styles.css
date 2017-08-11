@@ -1,3 +1,8 @@
 header {
     border-bottom: 2px solid black;
+    color:blue;
+}
+
+.intro {
+	color:blue;
 }
